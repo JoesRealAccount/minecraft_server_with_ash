@@ -20,6 +20,16 @@ hash = "45abf05e1cc90006aeb65e4e1bbe97da5a1984f547ea8028a077dae68af0ac11"
 metafile = true
 
 [[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "408151861cc1b1a4c4e9c8a3550662a2fc36d0ea96ee07b7e96c5d2a6afacf6f"
+metafile = true
+
+[[files]]
+file = "mods/forge-config-api-port.pw.toml"
+hash = "b22f1d052eee2810fda73d850dd6f425a1214965e03a5a9dada421abfe74603b"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
 hash = "9a74f9345a91af6a0e2c1975e1dd1d26cfcae6fb072a3a0d68fd9de110ab6327"
 metafile = true
@@ -45,6 +55,11 @@ hash = "565c943b5006c36137a2fe55e4b8433e134c3d1011a37c5f5124cee67b671cb8"
 metafile = true
 
 [[files]]
+file = "mods/rrls.pw.toml"
+hash = "82e70d274662876a9691d741a105c9762266ecac72f663e5c1d8f0e1bf35cc19"
+metafile = true
+
+[[files]]
 file = "mods/sodium-extra.pw.toml"
 hash = "986e43ff06d2a79effec6e219aca063d7b53a98096c5f63983f23cf54c11c7e5"
 metafile = true
@@ -57,6 +72,16 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "9d340481c374a20067d1748c1a4991626bce9d7812f0bdb96072cd7a15d35462"
+metafile = true
+
+[[files]]
+file = "mods/yacl.pw.toml"
+hash = "1113d43c39a9866252a83ee50d16aa3ce6fcf749acd84d58b05ca09eba4d187b"
+metafile = true
+
+[[files]]
+file = "mods/zoomify.pw.toml"
+hash = "3ff0c2f005f2523f157b776f0e870494a8e8ec0ff77cb7e965c88b4e2090efdb"
 metafile = true
 
 [[files]]
