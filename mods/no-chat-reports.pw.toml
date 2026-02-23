@@ -3,11 +3,11 @@ filename = "NoChatReports-FABRIC-1.21.11-v2.18.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "4e519507bdd81ce2520da33f497a5f12469f5b10"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/qQyHxfxd/versions/rhykGstm/NoChatReports-FABRIC-1.21.11-v2.18.0.jar"
+hash-format = "sha512"
+hash = "d2c35cc8d624616f441665aff67c0e366e4101dba243bad25ed3518170942c1a3c1a477b28805cd1a36c44513693b1c55e76bea627d3fced13927a3d67022ccc"
 
 [update]
-[update.curseforge]
-file-id = 7375692
-project-id = 634062
+[update.modrinth]
+mod-id = "qQyHxfxd"
+version = "rhykGstm"

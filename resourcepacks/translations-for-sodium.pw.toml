@@ -1,13 +1,13 @@
 name = "Translations for Sodium"
 filename = "SodiumTranslations.zip"
-side = "both"
+side = "client"
 
 [download]
-hash-format = "sha1"
-hash = "4042ef0ed7cda87f691a6ac8326d6bc1a997acd9"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/yfDziwn1/versions/yX6kBQlM/SodiumTranslations.zip"
+hash-format = "sha512"
+hash = "5a200d6a302dfd7eddf2e1e267151a217afd57c863c26ffc63770bb37d9ac7d9ee38d6de37b96b046552f28c158618a33fac9403afcbb76126c970a6d34a4b00"
 
 [update]
-[update.curseforge]
-file-id = 7656281
-project-id = 867964
+[update.modrinth]
+mod-id = "yfDziwn1"
+version = "yX6kBQlM"
