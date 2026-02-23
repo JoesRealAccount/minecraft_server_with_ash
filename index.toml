@@ -90,6 +90,11 @@ hash = "7b83af5380faba6641a6fdf27e239eba79846f6b66a65da810860a8cb1e86ee4"
 metafile = true
 
 [[files]]
+file = "mods/effectual.pw.toml"
+hash = "787ed61e0521240eaa0a1e3b22269d947ba2f779d0f896be54641bb8a83cf3e7"
+metafile = true
+
+[[files]]
 file = "mods/entity-model-features.pw.toml"
 hash = "7a304e1dd8fdc4ab7fb695e661547ceb951b1aa4a20ae397852c64a3d9408683"
 metafile = true
@@ -240,11 +245,6 @@ hash = "565c943b5006c36137a2fe55e4b8433e134c3d1011a37c5f5124cee67b671cb8"
 metafile = true
 
 [[files]]
-file = "mods/rei.pw.toml"
-hash = "a62d7893eae9d5713dbe9c844b2bb9eba53157743c47b6e8abcbdd9075264cc9"
-metafile = true
-
-[[files]]
 file = "mods/rrls.pw.toml"
 hash = "82e70d274662876a9691d741a105c9762266ecac72f663e5c1d8f0e1bf35cc19"
 metafile = true
@@ -267,6 +267,11 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "9d340481c374a20067d1748c1a4991626bce9d7812f0bdb96072cd7a15d35462"
+metafile = true
+
+[[files]]
+file = "mods/tlib.pw.toml"
+hash = "d34e91d8cf3e7ae86e51bc52e2c40a86674925f2ade6a7392d1cea1f5ccf6146"
 metafile = true
 
 [[files]]
