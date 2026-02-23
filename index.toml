@@ -115,11 +115,6 @@ hash = "59d092d4627a3a2c01ba0c621e0de6e09d6b7c04e1f3230cd735740c4f1ea537"
 metafile = true
 
 [[files]]
-file = "mods/lithium.pw.toml"
-hash = "9a74f9345a91af6a0e2c1975e1dd1d26cfcae6fb072a3a0d68fd9de110ab6327"
-metafile = true
-
-[[files]]
 file = "mods/modmenu.pw.toml"
 hash = "51ff93e279e03cb3cd77a5be0df777cdcd975d35b5149180d9dc724e47168c76"
 metafile = true
