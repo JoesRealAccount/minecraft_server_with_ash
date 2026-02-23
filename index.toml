@@ -25,6 +25,11 @@ hash = "17e7de63579b066cea4b6db60318617956c1925891edc562085cd72544a763b9"
 metafile = true
 
 [[files]]
+file = "mods/bobby.pw.toml"
+hash = "5e097f95b8818e0999b4e867351745441f90c9bcf2a9c68cd19d5d708da4a4a1"
+metafile = true
+
+[[files]]
 file = "mods/capes.pw.toml"
 hash = "a8785544fb032c24853b8ed9bb15d65c30312f1ee5f7ada3e73a0350512702a0"
 metafile = true
@@ -242,6 +247,11 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "9d340481c374a20067d1748c1a4991626bce9d7812f0bdb96072cd7a15d35462"
+metafile = true
+
+[[files]]
+file = "mods/voxy.pw.toml"
+hash = "840df7661c1bbb97312f39102d479d80b2b149da533c623f633d9715295ca91c"
 metafile = true
 
 [[files]]
