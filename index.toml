@@ -40,6 +40,11 @@ hash = "a8785544fb032c24853b8ed9bb15d65c30312f1ee5f7ada3e73a0350512702a0"
 metafile = true
 
 [[files]]
+file = "mods/cardinal-components-api.pw.toml"
+hash = "56801c8c848bb2bc6bd6cf5c81ac3eb5b14d2e8be53aa11358e07bd3babf3b78"
+metafile = true
+
+[[files]]
 file = "mods/chunks-fade-in.pw.toml"
 hash = "e3c37ed18f53e994c58b92cc64e71b63a25a75d6c5581156b7b96bc5985fb0d9"
 metafile = true
@@ -202,6 +207,11 @@ metafile = true
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "44f00c1a0e3d4f8717e805c30c862a597e7856472e72637800fd1a38d73fbd08"
+metafile = true
+
+[[files]]
+file = "mods/multiworld-inventories.pw.toml"
+hash = "a10200582ea1549554822da522df041cc4dd49eae9a1384f0fc74fde1c377cea"
 metafile = true
 
 [[files]]

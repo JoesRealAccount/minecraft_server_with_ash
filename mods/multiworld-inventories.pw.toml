@@ -1,0 +1,13 @@
+name = "Multiworld Inventories"
+filename = "MultiworldInventories-0.1.0.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/tXvf0aoF/versions/Rfo0TeVm/MultiworldInventories-0.1.0.jar"
+hash-format = "sha512"
+hash = "0502f793213e662d5d1600e0d45cccbcf5b6bb0fddee5fcf549abfb5670439d76397578fa4d9018f667ddbe1ae7d245b5a9034f81bc23390d679861a6e0509f8"
+
+[update]
+[update.modrinth]
+mod-id = "tXvf0aoF"
+version = "Rfo0TeVm"
