@@ -5,8 +5,33 @@ file = "LICENSE"
 hash = "a2010f343487d3f7618affe54f789f5487602331c0a8d03f49e9a7c547cf0499"
 
 [[files]]
+file = "mods/better-mount-hud.pw.toml"
+hash = "6ef53c2c4e506e111b4bd7c1bc8804a5a7dcb2f6e3b79054575e73f6ce61ee94"
+metafile = true
+
+[[files]]
+file = "mods/bettergrassify.pw.toml"
+hash = "17e7de63579b066cea4b6db60318617956c1925891edc562085cd72544a763b9"
+metafile = true
+
+[[files]]
+file = "mods/capes.pw.toml"
+hash = "a8785544fb032c24853b8ed9bb15d65c30312f1ee5f7ada3e73a0350512702a0"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "a06ef129798265e0d7249426fb0ed5c506725b0460dc3dfdb975b8978480895e"
+metafile = true
+
+[[files]]
+file = "mods/continuity.pw.toml"
+hash = "d53b229a5588d33a8dac8682cba4371b22b2cbe2541c7129506cfbd44daaf6f8"
+metafile = true
+
+[[files]]
+file = "mods/controlify.pw.toml"
+hash = "ad7501adf411d4d8b1c752e837813ae03acfeeb9afb2b593c95b2adfe1d99824"
 metafile = true
 
 [[files]]
@@ -15,8 +40,18 @@ hash = "a22ba7c148744fe8c1ed7580e95e9a285bd71b2b1c2f66ab9d89c5d43e1498f1"
 metafile = true
 
 [[files]]
+file = "mods/entity-model-features.pw.toml"
+hash = "7a304e1dd8fdc4ab7fb695e661547ceb951b1aa4a20ae397852c64a3d9408683"
+metafile = true
+
+[[files]]
 file = "mods/entityculling.pw.toml"
 hash = "c23a1be7641341478b09c5c4f835b5e024a246f9e8521e92905bcab0d0e8cce0"
+metafile = true
+
+[[files]]
+file = "mods/entitytexturefeatures.pw.toml"
+hash = "d2551922e217952f0bcc574427916b2c3f8e27b145532a2469f407285004b596"
 metafile = true
 
 [[files]]
@@ -142,6 +177,11 @@ metafile = true
 [[files]]
 file = "mods/zoomify.pw.toml"
 hash = "3ff0c2f005f2523f157b776f0e870494a8e8ec0ff77cb7e965c88b4e2090efdb"
+metafile = true
+
+[[files]]
+file = "resourcepacks/chat-reporting-helper.pw.toml"
+hash = "e8a4a5ded3fd3ad71f8882d870541a3edf5d8286d9182e9fd8c5990e570e7463"
 metafile = true
 
 [[files]]
