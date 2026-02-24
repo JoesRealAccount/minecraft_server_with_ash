@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "1"
+hash = "92e9c4d4328c475f6b769a23eaf53141506653a9c6e3bd74e84052aeac5583f4"
+
+[[files]]
 file = "LICENSE"
 hash = "a2010f343487d3f7618affe54f789f5487602331c0a8d03f49e9a7c547cf0499"
 
@@ -287,21 +291,6 @@ metafile = true
 [[files]]
 file = "plugins/multiverse-core.pw.toml"
 hash = "bc8fdb668bafa48a338e2af5409cfbf8c8b8d882392fe400e42e60f3aa88c674"
-metafile = true
-
-[[files]]
-file = "plugins/multiverse-inventories.pw.toml"
-hash = "8784f924b8b1b0a8e69868fab96f2326d28e6eee9c88d0ecc65d72b7f7a9b0ac"
-metafile = true
-
-[[files]]
-file = "plugins/multiverse-netherportals.pw.toml"
-hash = "78bb302a56d2e3c48ca380313bd838823f33d339dfe638ac96742b2c2ea2eb2b"
-metafile = true
-
-[[files]]
-file = "plugins/multiverse-portals.pw.toml"
-hash = "1a2025d70ee63e877b7f722657c1256c2103234007891d24296b98dfd6cce63f"
 metafile = true
 
 [[files]]
