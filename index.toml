@@ -35,6 +35,11 @@ hash = "a8785544fb032c24853b8ed9bb15d65c30312f1ee5f7ada3e73a0350512702a0"
 metafile = true
 
 [[files]]
+file = "mods/cardboard.pw.toml"
+hash = "83f6ef9423db50135882ba9966bcd32ee04443a3efe191d9a083dd5ebfd274d9"
+metafile = true
+
+[[files]]
 file = "mods/cardinal-components-api.pw.toml"
 hash = "56801c8c848bb2bc6bd6cf5c81ac3eb5b14d2e8be53aa11358e07bd3babf3b78"
 metafile = true
@@ -277,6 +282,26 @@ metafile = true
 [[files]]
 file = "mods/zoomify.pw.toml"
 hash = "3ff0c2f005f2523f157b776f0e870494a8e8ec0ff77cb7e965c88b4e2090efdb"
+metafile = true
+
+[[files]]
+file = "plugins/multiverse-core.pw.toml"
+hash = "bc8fdb668bafa48a338e2af5409cfbf8c8b8d882392fe400e42e60f3aa88c674"
+metafile = true
+
+[[files]]
+file = "plugins/multiverse-inventories.pw.toml"
+hash = "8784f924b8b1b0a8e69868fab96f2326d28e6eee9c88d0ecc65d72b7f7a9b0ac"
+metafile = true
+
+[[files]]
+file = "plugins/multiverse-netherportals.pw.toml"
+hash = "78bb302a56d2e3c48ca380313bd838823f33d339dfe638ac96742b2c2ea2eb2b"
+metafile = true
+
+[[files]]
+file = "plugins/multiverse-portals.pw.toml"
+hash = "1a2025d70ee63e877b7f722657c1256c2103234007891d24296b98dfd6cce63f"
 metafile = true
 
 [[files]]

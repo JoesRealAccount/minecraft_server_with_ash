@@ -1,0 +1,13 @@
+name = "Multiverse-Portals"
+filename = "multiverse-portals-5.2.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9bbe58132f497c9b6004f5be6ceaa7f209594821"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7444481
+project-id = 30781

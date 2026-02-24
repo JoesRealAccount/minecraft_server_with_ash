@@ -1,0 +1,13 @@
+name = "[BETA] Cardboard - Spigot for Fabric"
+filename = "Cardboard-1.21.11.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "77eb30b976e892e3310b977e9d521cdaf2d20465"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7559321
+project-id = 381583

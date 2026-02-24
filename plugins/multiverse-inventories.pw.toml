@@ -1,0 +1,13 @@
+name = "Multiverse-Inventories"
+filename = "multiverse-inventories-5.3.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "377c667e84afb93489fd2f55846c9649bd86ea89"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7444482
+project-id = 35839

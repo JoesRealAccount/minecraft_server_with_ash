@@ -1,0 +1,13 @@
+name = "Multiverse-Core"
+filename = "multiverse-core-5.5.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "99c06bd9680479b05bf741a642e0759452d4421a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7561066
+project-id = 30765
