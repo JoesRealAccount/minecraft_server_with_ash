@@ -9,9 +9,53 @@ file = "LICENSE"
 hash = "a2010f343487d3f7618affe54f789f5487602331c0a8d03f49e9a7c547cf0499"
 
 [[files]]
+file = "mods/BetterGrassify-1.8.3+fabric.1.21.11.jar"
+hash = "4f60792ef6e3ffe24e87cca491230c2c170e87ebe9788b636a15a8fdcebbd812"
+
+[[files]]
+file = "mods/Clumps-fabric-1.21.11-29.0.0.1.jar"
+hash = "e3211208529817e5efcd0e2ee96f9c8c516e8bbade5a286cd6b8a2f4e70f6163"
+
+[[files]]
+file = "mods/Controlling-fabric-1.21.11-29.0.1.jar"
+hash = "13f6111514115d540ef16c76b2a21c80ddae3657f129488970abe2d73a5fa26f"
+
+[[files]]
+file = "mods/CrashAssistant-fabric-1.21.5-1.21.11-1.10.30.jar"
+hash = "02c5108ca925b3ff702f59fbc361a8d99098b2367a7601ddd1e59c90b571d7f6"
+
+[[files]]
+file = "mods/ForgeConfigAPIPort-v21.11.1-mc1.21.11-Fabric.jar"
+hash = "31a0686904fad1cfdeb1d6b011ac1c2280990d6e76ac2416468147e2246b4db1"
+
+[[files]]
+file = "mods/ImmediatelyFast-Fabric-1.14.2+1.21.11.jar"
+hash = "eb5d23860c2c853d0afda9cbf686f442afda34a31d8d60b118a21597ccf38888"
+
+[[files]]
+file = "mods/Jade-1.21.11-Fabric-21.1.1.jar"
+hash = "4e51dd3af5e5997bb7311f9845765a4c13d6ab9e44705e46762d18dbaac80e5d"
+
+[[files]]
+file = "mods/JustEnoughProfessions-fabric-1.21.11-10.0.0.jar"
+hash = "aa5a66e5f76601ae61b0f84f69ff185a5c1a7bafc34e405e02720645711cbbb5"
+
+[[files]]
+file = "mods/MouseTweaks-fabric-mc1.21.11-2.30.jar"
+hash = "e6718c6f35f6435294632b68ef8f251fe680bcd5324ffb4943daa41390c1c3c6"
+
+[[files]]
+file = "mods/appleskin-fabric-mc1.21.11-3.0.8.jar"
+hash = "04fe837be8f10bb5e6b999238594466c59bdb641a54512f19f1e67241d882ae3"
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "ca3ae2608987185814c118388f28057f729d866ee1abbc97f3650141d213fa35"
 metafile = true
+
+[[files]]
+file = "mods/architectury-19.0.1-fabric.jar"
+hash = "661395d6f0bef0d3a794e2db74df5600c7387ba6fb946b172315977201a667c7"
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
@@ -29,14 +73,30 @@ hash = "17e7de63579b066cea4b6db60318617956c1925891edc562085cd72544a763b9"
 metafile = true
 
 [[files]]
+file = "mods/bettermounthud-1.2.6.jar"
+hash = "98a625d51db9ee1d2548bef0fc28540e991034654da14ceb2b541da4fc695402"
+
+[[files]]
+file = "mods/bobby-5.2.11+mc1.21.11.jar"
+hash = "c1a1ab680ae8b41ee9b9a94b981032b125619cdfb3b778e8161bfb5d3a5c46c8"
+
+[[files]]
 file = "mods/bobby.pw.toml"
 hash = "5e097f95b8818e0999b4e867351745441f90c9bcf2a9c68cd19d5d708da4a4a1"
 metafile = true
 
 [[files]]
+file = "mods/capes-1.5.10+1.21.11-fabric.jar"
+hash = "ce84385380ac9a3fbc08865f3f3f9b6cece464ad46a3ea544291b2040b33b66e"
+
+[[files]]
 file = "mods/capes.pw.toml"
 hash = "a8785544fb032c24853b8ed9bb15d65c30312f1ee5f7ada3e73a0350512702a0"
 metafile = true
+
+[[files]]
+file = "mods/cardinal-components-api-7.3.0.jar"
+hash = "daef2c44ec20bf332fbb574faaead16b12d3892c7cf1af30276dd2b1b6f4337c"
 
 [[files]]
 file = "mods/cardinal-components-api.pw.toml"
@@ -49,6 +109,14 @@ hash = "e3c37ed18f53e994c58b92cc64e71b63a25a75d6c5581156b7b96bc5985fb0d9"
 metafile = true
 
 [[files]]
+file = "mods/chunksfadein-fabric-3.0.20-1.21.11.jar"
+hash = "1d9c7d73f8ae790eca0817f4c459ca9bad205dd3411d1a4ffb098a8b9130f993"
+
+[[files]]
+file = "mods/cloth-config-21.11.153-fabric.jar"
+hash = "8a40c84e5ecde525acfb6c4e13b8002dacfca3ef9534d7faf6e8049656f423c8"
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "a06ef129798265e0d7249426fb0ed5c506725b0460dc3dfdb975b8978480895e"
 metafile = true
@@ -57,6 +125,10 @@ metafile = true
 file = "mods/clumps.pw.toml"
 hash = "a5f67311e64ea67e8097c1fdd4d20cf11e1c5236334b5becabad7dabdae975db"
 metafile = true
+
+[[files]]
+file = "mods/continuity-3.0.1-beta.1+1.21.11.jar"
+hash = "1d4d4e86fb20bd0b078fcc518f4641d21985cc8bfaefa6dd49cfa1beff52ac83"
 
 [[files]]
 file = "mods/continuity.pw.toml"
@@ -84,9 +156,21 @@ hash = "982801b4473e11e6f8c5899f18a260515239dfce397c650c6920fc6ae03f6abb"
 metafile = true
 
 [[files]]
+file = "mods/cwb-fabric-3.0.0-build.14+mc1.21.11.jar"
+hash = "6b45bbaa330321705dca8543a5dee53aefcbcc68c507f8ca8445a957d186e53f"
+
+[[files]]
+file = "mods/debugify-1.21.11+1.0.jar"
+hash = "ffddff753980f2074c893399fd08d884162af4588bc17a52969e254dba58c95c"
+
+[[files]]
 file = "mods/debugify.pw.toml"
 hash = "b32453041250975ffba451f0258eb91de9fa991e2a320fe36c6eafcb1c5742b7"
 metafile = true
+
+[[files]]
+file = "mods/dynamic-fps-3.11.4+minecraft-1.21.11-fabric.jar"
+hash = "7d0e8fe94d2ac24c1cbd0798b4cb093d57088046d28972a602471a678400b08d"
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
@@ -97,6 +181,18 @@ metafile = true
 file = "mods/entity-model-features.pw.toml"
 hash = "7a304e1dd8fdc4ab7fb695e661547ceb951b1aa4a20ae397852c64a3d9408683"
 metafile = true
+
+[[files]]
+file = "mods/entity_model_features_1.21.11-fabric-3.0.12.jar"
+hash = "8da215084228e07c70d0f24a8925c2e89ad201e88722cff235a755eff5497724"
+
+[[files]]
+file = "mods/entity_texture_features_1.21.11-fabric-7.0.9.jar"
+hash = "2886d5d7801089b61f3b83947020f26699245670b47aad7efb4128d73f81cf88"
+
+[[files]]
+file = "mods/entityculling-fabric-1.9.5-mc1.21.11.jar"
+hash = "10f4184edc1547ccfdee4672ef45383071f103f9fc7a378eb3bfc3e364a1f468"
 
 [[files]]
 file = "mods/entityculling.pw.toml"
@@ -119,9 +215,17 @@ hash = "408151861cc1b1a4c4e9c8a3550662a2fc36d0ea96ee07b7e96c5d2a6afacf6f"
 metafile = true
 
 [[files]]
+file = "mods/fabrishot-1.16.4.jar"
+hash = "e14cf73c68555ed46f331bc42fabcb172bfeb4fb5916ceabb5d5005738ac77bd"
+
+[[files]]
 file = "mods/fabrishot.pw.toml"
 hash = "fcdaaad3ac86edfe8b2dd506b9e1303c70636251fc275f21f7a4a2efa324a8e8"
 metafile = true
+
+[[files]]
+file = "mods/fastquit-3.1.3+mc1.21.11.jar"
+hash = "b66c86ca154705579ae457a00c2770702e3baa0823501099d613835f1f0b3453"
 
 [[files]]
 file = "mods/fastquit.pw.toml"
@@ -164,6 +268,10 @@ hash = "9b7a2cdfc955a9e9ed9412b5a95d5328455a273f90bf36df4841a4cb413c4fe3"
 metafile = true
 
 [[files]]
+file = "mods/justenoughbreeding-fabric-1.21.11-1.6.6.jar"
+hash = "fcf0c186cf4aaaf544b573a7bc03f9d63c063cff2ad9a91e5e808c130bc3b6aa"
+
+[[files]]
 file = "mods/justenoughbreeding.pw.toml"
 hash = "4db70d83f8914ec8ce60cd65b392f60824713f89d5e6accf253ac1797dc0dbb9"
 metafile = true
@@ -172,6 +280,10 @@ metafile = true
 file = "mods/lambdynamiclights.pw.toml"
 hash = "71255e25b05b6529d6a2873e4db079b7b6541f58a78d872bc19478afcb0ffd1c"
 metafile = true
+
+[[files]]
+file = "mods/language-reload-1.7.5+1.21.11.jar"
+hash = "ad46723585c31a1a8e94b22c1b19b7d35a4256835f39ba93f3437cbb64b8f10c"
 
 [[files]]
 file = "mods/language-reload.pw.toml"
@@ -187,6 +299,10 @@ metafile = true
 file = "mods/modmenu.pw.toml"
 hash = "51ff93e279e03cb3cd77a5be0df777cdcd975d35b5149180d9dc724e47168c76"
 metafile = true
+
+[[files]]
+file = "mods/morechathistory-1.3.1.jar"
+hash = "f6032e46826b63e18c8848a3053e32652fc5298892a216a53dce66598925fc6c"
 
 [[files]]
 file = "mods/morechathistory.pw.toml"
@@ -281,11 +397,6 @@ metafile = true
 [[files]]
 file = "mods/zoomify.pw.toml"
 hash = "3ff0c2f005f2523f157b776f0e870494a8e8ec0ff77cb7e965c88b4e2090efdb"
-metafile = true
-
-[[files]]
-file = "plugins/multiverse-core.pw.toml"
-hash = "bc8fdb668bafa48a338e2af5409cfbf8c8b8d882392fe400e42e60f3aa88c674"
 metafile = true
 
 [[files]]
