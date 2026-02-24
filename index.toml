@@ -200,16 +200,6 @@ hash = "44f00c1a0e3d4f8717e805c30c862a597e7856472e72637800fd1a38d73fbd08"
 metafile = true
 
 [[files]]
-file = "mods/multiworld-inventories.pw.toml"
-hash = "a10200582ea1549554822da522df041cc4dd49eae9a1384f0fc74fde1c377cea"
-metafile = true
-
-[[files]]
-file = "mods/multiworld.pw.toml"
-hash = "9cdb9afcd62b26e5645794f9bca080f00850ca68ed48226cb7cc1a944da7169e"
-metafile = true
-
-[[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "cd25851cbdaad2dd1957a8086ce54aa4bd3c45be75e1ba49168a54fafbd87898"
 metafile = true
